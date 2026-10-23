@@ -469,6 +469,4 @@ swift Design/make_icon.swift TaskBoard/Assets.xcassets/AppIcon.appiconset
 
 Built with SwiftUI by **Sokreaksmey Deap**.
 
-If this project helped you learn, consider giving it a star.
-
 </div>
